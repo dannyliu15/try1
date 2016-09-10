@@ -6,7 +6,7 @@ namespace ConsoleApplication1_tryGitHub
     {
         static void Main(string[] args)
         {
-
+            
 
 
         }
